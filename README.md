@@ -37,10 +37,23 @@ Simon-Game/
 └── README.md
 
 ## 📸 Screenshot
-(Add a screenshot of the game here)
+
+![Simon Game Screenshot](Screenshot.png)
 
 ## 👨‍💻 Author
-Jatin Arora
+
+**Jatin Arora**
+
+- GitHub: https://github.com/jatinarora-star
+
+## 💡 Skills Demonstrated
+
+- JavaScript Fundamentals
+- DOM Manipulation
+- Event Handling
+- Game Logic Implementation
+- UI Animations
+- Problem Solving
 
 ## 📈 Future Improvements
 - Sound effects
