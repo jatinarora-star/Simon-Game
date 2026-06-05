@@ -3,7 +3,7 @@
 A memory-based game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here after deployment)
+https://jatinarora-star.github.io/Simon-Game/
 
 ## 📌 Features
 - Random color sequence generation
